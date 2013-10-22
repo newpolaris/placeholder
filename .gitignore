@@ -1,0 +1,6 @@
+*.sdf
+placeholder/Debug/*
+placeholder_dereference/Debug/
+placeholder_dereference/Debug/*
+
+placeholder.opensdf
